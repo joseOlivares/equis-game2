@@ -1,6 +1,6 @@
 # equis-game2 (TicTacToeOlivares)
 
-This is a new version of my tic tac toe game, developed with angular and uikit 3.
+New version of my tic tac toe game version (using angular, socketIO and UIkit 3)
 
 # Developer
 
